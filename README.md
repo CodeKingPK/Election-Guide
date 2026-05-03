@@ -46,3 +46,4 @@ To run this project locally:
 * Framer Motion (for animations)
 * Lucide React (for iconography)
 * Vanilla CSS (for styling)
+# Election-Guide
